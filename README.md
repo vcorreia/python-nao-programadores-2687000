@@ -1,10 +1,4 @@
-# Python para Não Programadores
- 
-Este é o repositório do curso de LinkedIn Learning `Python para Não Programadores`. Você pode acessar o conteúdo completo no [LinkedIn Learning][lil-course-url].
 
-![Título completo do curso][lil-thumbnail-url] 
-
-Confira o arquivo Readme na ramificação principal para obter instruções e informações atualizadas. 
 
 DESCRIÇÃO DO CURSO 
 
